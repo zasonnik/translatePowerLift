@@ -42,9 +42,9 @@ One quick note before we get under way: This guide covers a lotof ground.  I
 
 ### Оглавление
 * [1 Очень Общая Физика](#Очень-Общая-Физика)
-* [1.0.1 Force](#force)
-* [1.0.2 Moment](#moment)
-* [2 Anatomy](#anatomy)
+* [1.0.1 Сила](#Сила)
+* [1.0.2 Момент силы](#Момент-силы)
+* [2 Анатомия](#Анатомия)
 * [2.0.1 Spine](#)
 * [2.0.2 Pelvis](#)
 * [2.0.3 Femur](#)
