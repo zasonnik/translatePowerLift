@@ -1,12 +1,12 @@
 # **_How to Squat: The Definitive Guide_**
 ![заглавная картинка](https://i1.wp.com/www.strongerbyscience.com/wp-content/uploads/2016/03/DSC09145.jpg)
-by [Greg Nuckols]()   
+by [Greg Nuckols](https://www.strongerbyscience.com)   
 
-Featured images by [9for9 Media]()   
+Featured images by [9for9 Media](http://9for9media.com/)   
 
-Anatomy drawings by [rylynnchelios]()   
+Anatomy drawings by [rylynnchelios](https://www.fiverr.com/rylynnchelios)   
 
-Graphics by [Lyndsey Nuckols]()   
+Graphics by [Lyndsey Nuckols](http://www.lyndseyrnuckols.com)   
   
 **Приседания нужны всем.** Вы хотите мощные ноги? Вы вряд ли найдёте упражнение лучше, чем приседания. Вы хотите стать атлетичнее, не рискуя травмироваться на поле или на корте? Приседания должны быть в центре вашей тренировочной программы.  
 
