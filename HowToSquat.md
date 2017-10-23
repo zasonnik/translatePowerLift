@@ -99,7 +99,7 @@ Graphics by [Lyndsey Nuckols](http://www.lyndseyrnuckols.com)
 * [9.0.1 Нужно приседать с высоким положением штанги, с низким положением штанги, или же со штангой на груди?](#Нужно-приседать-с-высоким-положением-штанги-с-низким-положением-штанги-или-же-со-штангой-на-груди)
 * [10 Снаряжение](#Снаряжение)
 * [11 Памятки](#Памятки)
-* [12 [Поделитесь этим руководством на Фейсбуке](http://www.facebook.com/sharer.php?u=https://www.strongerbyscience.com/how-to-squat/) и [присоединяйтесь к обсуждению](https://www.facebook.com/strengtheory/posts/489621327900060?__mref=message)](#Поделитесь-этим-руководством-на-Фейсбуке-и-присоединяйтесь-к-обсуждению)
+* 12 [Поделитесь этим руководством на Фейсбуке](http://www.facebook.com/sharer.php?u=https://www.strongerbyscience.com/how-to-squat/) и [присоединяйтесь к обсуждению](https://www.facebook.com/strengtheory/posts/489621327900060?__mref=message)
 * [13 Источники](#Источники)
 
 ## Очень Общая Физика
@@ -732,105 +732,195 @@ Squat strength and power relative to body weight predict sprint performance, and
 2. Если разрыв между приседанием и становой тягой больше, чем в 15-20%, улучшайте <закрепление/преднапряжение/обтяжку> мышечного корсета. Improve core bracing if there’s more than a 15-20% gap between your squat and your deadlift.
 3. Если вам не подходят первые два критерия, укрепляйте разгибатели бедра. Improve hip extensor strength if you don’t meet the first two criteria.
 
-Общие проблемы: General Issues:
-1. _Чувствуете_ ли вы себя устойчивым, сильным и удерживаете ли вы равновесие под нагрузкой? Do you feel strong, stable, and balanced under the load?
-2. Вызывают ли приседания у вас какие-либо боли, острые или хронические (в кистях, локтях, коленях, тазу, спине и т.д.)? Does squatting cause any aches and pains, whether acute or chronic (wrist, elbows, knees, hips, back, etc.)?
-3. Хватает ли вам подвижности в голеностопе, колене и тазу без нагрузки? Менятся ли она от нагрузки? Если амплитуда уменьшается под нагрузкой, то это проблема мышечного контроля, а не подвижности. Do you have adequate ankle, knee, and hip mobility without load?  Do those things change with load?  If ROM decreases when loaded, it’s a control issue, not a mobility issue.
+Общие проблемы: 
+1. _Чувствуете_ ли вы себя устойчивым, сильным и удерживаете ли вы равновесие под нагрузкой? 
+2. Вызывают ли приседания у вас какие-либо боли, острые или хронические (в кистях, локтях, коленях, тазу, спине и т.д.)?
+3. Хватает ли вам подвижности в голеностопе, колене и тазу без нагрузки? Менятся ли она от нагрузки? Если амплитуда уменьшается под нагрузкой, то это проблема мышечного контроля, а не подвижности. 
 4. Перемещаете ли вы вес на одну половину телу, или вы слишком подворачиваетесь? Тут вам снова придётся <судить самому>, поскольку все в определённой мере асимметричны. Do you shift your weight to one side, or do you rotate excessively?  Again, this is a bit of a judgement call, since everyone is asymmetrical to some degree.
-5. Носите ли вы правильную обувь? Сгодится любая обувь с достачно цепкой и жёсткой подошвой; поднята ли у неё пятка или нет — дело вкуса, но мягкой подошвы надо избегать.  Are you wearing the right shoes?  Any shoe with good traction and a solid sole is fine; with or without a raised heel is just a matter of preference, but cushion-y soles should be avoided.
+5. Носите ли вы правильную обувь? Сгодится любая обувь с достачно цепкой и жёсткой подошвой; поднята ли у неё пятка или нет — дело вкуса, но мягкой подошвы надо избегать.  
 
 ## [Поделитесь этим руководством на Фейсбуке](http://www.facebook.com/sharer.php?u=https://www.strongerbyscience.com/how-to-squat/) и [присоединяйтесь к обсуждению](https://www.facebook.com/strengtheory/posts/489621327900060?__mref=message)
 
 ## Источники
-Aspe. Electromyographic and Kinetic Comparison of the Back Squat and Overhead Squat.
-Andersen. Muscle Activation and Strength in Squat and Bulgarian Squat on Stable and Unstable Surface.
-Bazyler. The Efficacy of Incorporating Partial Squats in Maximal Strength Training.
-Bird. Exploring the Front Squat.
-Bloomquist. Effect of range of motion in heavy load squatting on muscle and tendon adaptations.
-Boyden. A Comparison of Quadriceps Electromyographic Activity With the Position of the Foot During the Parallel Squat.
-Braidot. Biomechanics of front and back squat exercises.
-Bressel. Effect of instruction, surface stability, and load intensity on trunk muscle activity.
-Bryanton. Quadriceps effort during squat exercise depends on hip extensor muscle strategy.
-Bryanton. Effect of Squat Depth and Barbell Load on Relative Muscular Effort in Squatting.
-Campbell. A Comparative Electromyographic Study of the Effect of Four Selected Closed Chain Squat Exercises on Vastus Medialis Oblique and Vastus Lateralis.
-Chiu. Sitting Back in the Squat.
-Chiu. A Teaching Progression for Squatting Exercises.
-Clark. Muscle Activation in the Loaded Free Barbell Squat: A Brief Review.
-Contreras. A Comparison of Gluteus Maximum, Biceps Femoris, and Vastus Lateralis EMG Amplitudes in the Parallel, Full, and Front Squat Variations in Resistance Trained Females.
-Cotter. Knee Joint Kinetics in Relation to Commonly Prescribed Squat Loads and Depths.
-Deforest. Muscle Activity in Single- vs . Double-Leg Squats.
-Diggin. A biomechanical analysis of front versus back squat: injury implications.
-Donnelly. The Effect of the Direction of Gaze on the Kinematics of the Squat Exercise.
-Earp. Inhomogeneous Quadriceps Femoris Hypertrophy in Response to Strength and Power Training.
-Ebben. Muscle Activation during Lower Body Resistance Training.
-Escamilla. Knee Biomechanics of the Dynamic Squat Exercise.
-Escamilla. A three-dimensional biomechanical analysis of the squat during varying stance widths.
-Escamilla. Effects of technique variations on knee biomechanics during the squat and leg press.
-Flanagan. Bilateral Differences in the Net Joint Torques During the Squat Exercise.
-Flanagan. The limiting joint during a failed squat: a biomechanics case series.
-Fonseca. Changes in Exercises Are More Effective Than in Loading Schemes to Improve Muscle Strength.
-Fortenbaugh. The Effects of Weightlifting Shoes on Squat Kinematics.
-Fry. Effect of knee position on hip and knee torques during the barbell squat.
-Gomes. Kinematic and sEMG analysis of the back squat at different intensities with and without knee wraps.
-Gomes. Acute Effects on Maximal Isometric Force with and without Knee Wrap During Squat Exercise.
-Goodin. Comparison of External Kinetic and Kinematic Variables between High Barbell Back Squats and Low Barbell Back Squats across a Range of Loads.
-Gorsuch. The Effect of Squat Depth on Muscle Activation in Male and Female Cross-Country Runners.
-Grzelak. Thickening of the Knee Joint Cartilage in Elite Weightlifters as a Potential Adaptation Mechanism.
-Gullett. A biomechanical comparison of back and front squats in healthy trained individuals.
-Hales. Kinematic Analysis of the Powerlifting Style Squat and the Conventional Deadlift During Competition: Is There a Cross-Over Effect Between Lifts.
-Hartmann. Analysis of the Load on the Knee Joint and Vertebral Column with Changes in Squatting Depth and Weight Load.
-Hirata. Effect of Relative Knee Position on Internal Mechanical Loading During Squatting.
-Hooper. Effects of fatigue from resistance training on barbell back squat biomechanics.
-Jones. Effects of Unilateral and Bilateral Lower-body heavy resistance exercise on muscle activity and testosterone response.
-Kellis. Effects of load on ground reaction force and lower limb kinematics during concentric squats.
-Kompf. Understanding and Overcoming the Sticking Point in Resistance Exercise.
-Lake. Wearing Knee Wraps Affects Mechanical Output and Performance Characteristics of Back Squat Exercise.
-Lander. The effectiveness of weight-belts during the squat exercise.
-Lander. The effectiveness of weight-belts during multiple repetitions of the squat exercise.
-Li. Similar Electromyographic Activities Between Squatting on a Reebok Core Board and Ground.
-List. Kinematics of the trunk and the lower extremities during restricted and unrestricted squats.
-Lorenzetti. Comparison of the angles and corresponding
- moments in the knee and hip during restricted and unrestricted squats.
-Luera. Electromyographic Amplitude vs. Concentric and Eccentric squat force relationships for monoarticular and biarticular thigh muscles.
-Maddigan,. Lower Limb and Trunk Muscle Activation With Back Squats and Weighted Sled Apparatus.
-Manabe. Effect of slow movement and stretch-shortening cycle on lower extremity muscle activity and joint moments during squat.
-Marchetti. Can the Technique of Knee Wrap Placement Affect the Maximal Isometric Force during Back Squat Exercise?
-McAllister. Muscle activation during various hamstring exercises.
-McBride. Comparison of kinetic variables and muscle activity during a squat vs. a box squat.
-McBride. Effect of loading on peak power of the bar, body, and system during power cleans, squats, and jump squats.
-McCurdy. The effects of short-term unilateral and bilateral lower-body resistance training on measures of strength and power.
-McCurdy. Comparison of lower extremity EMG between the 2-leg squat and modified single-leg squat in female athletes.
-McKean. Does Segment Length Influence the Hip, Knee and Ankle Coordination During the Squat Movement
-McKean. Quantifying the Movement and the Influence of Load in the Back Squat Exercise.
-McLaughlin. Kinetics of the Parallel Squat.
-McLaughlin. A kinematic model of performance in the parallel squat.
-Miletello. A biomechanical analysis of the squat between competitive collegiate, competitive high school, and novice powerlifters.
-Murray. Effects of Foot Position during Squatting on the Quadriceps Femoris: An Electromyographic Study.
-Myer. The back squat: A proposed assessment of functional deficits and technical factors that limit performance.
-Nuzzo. Trunk muscle activity during stability ball and free weight exercises.
-Olinghouse. Neuromuscular and morphological adaptations to short-term squat and deadlift training in women.
-Paoli. The effect of stance width on the electromyographical activity of eight superficial thigh muscles during back squat with different bar loads.
-O’Shea. The Parallel Squat.
-Pereira. Influence of hip external rotation on hip adductor and rectus femoris myoelectric activity during a dynamic parallel squat.
-Pick. The Relationship Between Training Status and Intensity on Muscle Activation and Relative Submaximal Lifting Capacity During the Back Squat.
-Robertson. Lower extremity muscle functions during full squats.
-Russell. A preliminary comparison of front and back squat exercises.
-Sato. Kinematic changes using weightlifting shoes on barbell back squat.
-Sato. Comparison of back squat kinematics between barefoot and shoe conditions.
-Schoenfeld. Squatting Kinematics and Kinetics and Their Application to Exercise Performance.
-Signorile. An Electromyographical Comparison of the Squat and Knee Extension Exercises.
-Sinclair. The influence of different footwear on 3-D kinematics and muscle activation during the barbell back squat in males.
-Skinner. Kinetic and Kinematric Analysis of the Squat with and without Supportive Equipment.
-McCaw. Stance width and bar load effects on leg muscle activity during the parallel squat.
-Stone. Comparison of the Effects of Three Different Weight-Training Programs on the One Repetition Maximum Squat.
-Stuart. Comparison of intersegmental tibiofemoral joint forces and muscle activity during various closed kinetic chain exercises.
-Swinton. A biomechanical comparison of the traditional squat, powerlifting squat, and box squat.
-Thomas. Maximal Power At Different Percentages of One Repetition Maximum: Influence of Resistance and Gender.
-van den Tillaar. The Existence of a Sticking Region in Free Weight Squats.
-Wilk. A comparison of tibiofemoral joint forces and electromyographic activity during open and closed kinetic chain exercises.
-Wisløff. Strong correlation of maximal squat strength with sprint performance and vertical jump height in elite soccer players.
-Wretenberg. High- and low-bar squatting techniques during weight-training.
-Wright. Electromyographic Activity of the Hamstrings During Performance of the Leg Curl, Stiff-Leg Deadlift, and Back Squat Movements.
-Yavuz. Kinematic and EMG activities during front and back squat variations in maximum loads.
-Zink. Peak power, ground reaction forces, and velocity during the squat exercise performed at different loads.
-Zink. The effects of a weight belt on trunk and leg muscle activity and joint kinematics during the squat exercise.
+
+[Aspe. Electromyographic and Kinetic Comparison of the Back Squat and Overhead Squat.](http://www.ncbi.nlm.nih.gov/pubmed/24662228)
+
+[Andersen. Muscle Activation and Strength in Squat and Bulgarian Squat on Stable and Unstable Surface.](http://www.ncbi.nlm.nih.gov/pubmed/25254898)
+
+[Bazyler. The Efficacy of Incorporating Partial Squats in Maximal Strength Training.](http://www.ncbi.nlm.nih.gov/pubmed/24662234)
+
+[Bird. Exploring the Front Squat.](http://journals.lww.com/nsca-scj/Abstract/2012/04000/Exploring_the_Front_Squat.5.aspx)
+
+[Bloomquist. Effect of range of motion in heavy load squatting on muscle and tendon adaptations.](http://www.ncbi.nlm.nih.gov/pubmed/23604798)
+
+[Boyden. A Comparison of Quadriceps Electromyographic Activity With the Position of the Foot During the Parallel Squat.](http://journals.lww.com/nsca-jscr/Abstract/2000/11000/A_Comparison_of_Quadriceps_Electromyographic.2.aspx)
+
+[Braidot. Biomechanics of front and back squat exercises.](http://iopscience.iop.org/article/10.1088/1742-6596/90/1/012009/meta)
+
+[Bressel. Effect of instruction, surface stability, and load intensity on trunk muscle activity.](http://www.ncbi.nlm.nih.gov/pubmed/19054687)
+
+[Bryanton. Quadriceps effort during squat exercise depends on hip extensor muscle strategy.](http://www.ncbi.nlm.nih.gov/pubmed/25895990)
+
+[Bryanton. Effect of Squat Depth and Barbell Load on Relative Muscular Effort in Squatting.](http://www.ncbi.nlm.nih.gov/pubmed/22797000)
+
+[Campbell. A Comparative Electromyographic Study of the Effect of Four Selected Closed Chain Squat Exercises on Vastus Medialis Oblique and Vastus Lateralis.](http://scholarworks.gvsu.edu/cgi/viewcontent.cgi?article=1383&context=theses)
+
+[Chiu. Sitting Back in the Squat.](https://www.researchgate.net/publication/232192538_Sitting_Back_in_the_Squat)
+
+[Chiu. A Teaching Progression for Squatting Exercises.](http://journals.lww.com/nsca-scj/Abstract/2011/04000/A_Teaching_Progression_for_Squatting_Exercises.7.aspx)
+
+[Clark. Muscle Activation in the Loaded Free Barbell Squat: A Brief Review.](http://www.ncbi.nlm.nih.gov/pubmed/22373894)
+
+[Contreras. A Comparison of Gluteus Maximum, Biceps Femoris, and Vastus Lateralis EMG Amplitudes in the Parallel, Full, and Front Squat Variations in Resistance Trained Females.](http://www.ncbi.nlm.nih.gov/pubmed/26252837)
+
+[Cotter. Knee Joint Kinetics in Relation to Commonly Prescribed Squat Loads and Depths.](http://www.ncbi.nlm.nih.gov/pubmed/23085977)
+
+[Deforest. Muscle Activity in Single- vs  Double-Leg Squats.](http://digitalcommons.wku.edu/cgi/viewcontent.cgi?article=1607&context=ijes)
+
+[Diggin. A biomechanical analysis of front versus back squat: injury implications.](https://www.researchgate.net/publication/258363730_A_biomechanical_Analysis_of_front_and_back_squat_injury_implications)
+
+[Donnelly. The Effect of the Direction of Gaze on the Kinematics of the Squat Exercise.](http://journals.lww.com/nsca-jscr/Abstract/2006/02000/THE_EFFECT_OF_THE_DIRECTION_OF_GAZE_ON_THE.23.aspx)
+
+[Earp. Inhomogeneous Quadriceps Femoris Hypertrophy in Response to Strength and Power Training.](http://www.ncbi.nlm.nih.gov/pubmed/25811947)
+
+[Ebben. Muscle Activation during Lower Body Resistance Training.](http://www.ncbi.nlm.nih.gov/pubmed/18975260)
+
+[Escamilla. Knee Biomechanics of the Dynamic Squat Exercise.](http://www.ncbi.nlm.nih.gov/pubmed/11194098)
+
+[Escamilla. A three-dimensional biomechanical analysis of the squat during varying stance widths.](http://www.ncbi.nlm.nih.gov/pubmed/11404665)
+
+[Escamilla. Effects of technique variations on knee biomechanics during the squat and leg press.](http://www.ncbi.nlm.nih.gov/pubmed/11528346)
+
+[Flanagan. Bilateral Differences in the Net Joint Torques During the Squat Exercise.](http://www.ncbi.nlm.nih.gov/pubmed/18076249)
+
+[Flanagan. The limiting joint during a failed squat: a biomechanics case series.](https://www.researchgate.net/publication/275663437_The_Limiting_Joint_during_a_Failed_Squat_A_Biomechanics_Case_Series)
+
+[Fonseca. Changes in Exercises Are More Effective Than in Loading Schemes to Improve Muscle Strength.](http://www.ncbi.nlm.nih.gov/pubmed/24832974)
+
+[Fortenbaugh. The Effects of Weightlifting Shoes on Squat Kinematics.](https://ojs.ub.uni-konstanz.de/cpa/article/view/4407)
+
+[Fry. Effect of knee position on hip and knee torques during the barbell squat.](http://www.ncbi.nlm.nih.gov/pubmed/14636100)
+
+[Gomes. Kinematic and sEMG analysis of the back squat at different intensities with and without knee wraps.](http://www.ncbi.nlm.nih.gov/pubmed/25763519)
+
+[Gomes. Acute Effects on Maximal Isometric Force with and without Knee Wrap During Squat Exercise.](https://www.researchgate.net/publication/260750871_Acute_Effects_on_Maximal_Isometric_Force_with_and_without_Knee_Wrap_During_Squat_Exercise)
+
+[Goodin. Comparison of External Kinetic and Kinematic Variables between High Barbell Back Squats and Low Barbell Back Squats across a Range of Loads.](http://dc.etsu.edu/cgi/viewcontent.cgi?article=3919&context=etd)
+
+[Gorsuch. The Effect of Squat Depth on Muscle Activation in Male and Female Cross-Country Runners.](http://www.ncbi.nlm.nih.gov/pubmed/23254544)
+
+[Grzelak. Thickening of the Knee Joint Cartilage in Elite Weightlifters as a Potential Adaptation Mechanism.](http://www.ncbi.nlm.nih.gov/pubmed/24648385)
+
+[Gullett. A biomechanical comparison of back and front squats in healthy trained individuals.](https://steinhardt.nyu.edu/scmsAdmin/uploads/006/008/Gullet%20et%20al%202009%20-%20J%20Strength%20%26%20Conditioning%20Research.pdf)
+
+[Hales. Kinematic Analysis of the Powerlifting Style Squat and the Conventional Deadlift During Competition: Is There a Cross-Over Effect Between Lifts.](http://www.ncbi.nlm.nih.gov/pubmed/19910816)
+
+[Hartmann. Analysis of the Load on the Knee Joint and Vertebral Column with Changes in Squatting Depth and Weight Load.](http://www.ncbi.nlm.nih.gov/pubmed/23821469)
+
+[Hirata. Effect of Relative Knee Position on Internal Mechanical Loading During Squatting.](http://www.scielo.br/scielo.php?pid=S1413-35552007000200006&script=sci_arttext&tlng=en)
+
+[Hooper. Effects of fatigue from resistance training on barbell back squat biomechanics.](http://www.ncbi.nlm.nih.gov/pubmed/24662156)
+
+[Jones. Effects of Unilateral and Bilateral Lower-body heavy resistance exercise on muscle activity and testosterone response.](http://www.ncbi.nlm.nih.gov/pubmed/22222320)
+
+[Kellis. Effects of load on ground reaction force and lower limb kinematics during concentric squats.](http://www.ncbi.nlm.nih.gov/pubmed/16194981)
+
+[Kompf. Understanding and Overcoming the Sticking Point in Resistance Exercise.](http://www.ncbi.nlm.nih.gov/pubmed/26758462)
+
+[Lake. Wearing Knee Wraps Affects Mechanical Output and Performance Characteristics of Back Squat Exercise.](http://www.ncbi.nlm.nih.gov/pubmed/22995993)
+
+[Lander. The effectiveness of weight-belts during the squat exercise.](http://www.ncbi.nlm.nih.gov/pubmed/2304406)
+
+[Lander. The effectiveness of weight-belts during multiple repetitions of the squat exercise.](http://www.ncbi.nlm.nih.gov/pubmed/1533266)
+
+[Li. Similar Electromyographic Activities Between Squatting on a Reebok Core Board and Ground.](http://journals.lww.com/nsca-jscr/Abstract/2013/05000/Similar_Electromyographic_Activities_of_Lower.23.aspx)
+
+[List. Kinematics of the trunk and the lower extremities during restricted and unrestricted squats.](http://www.ncbi.nlm.nih.gov/pubmed/22990570)
+
+[Lorenzetti. Comparison of the angles and corresponding moments in the knee and hip during restricted and unrestricted squats.](http://www.ncbi.nlm.nih.gov/pubmed/22801421)
+ 
+[Luera. Electromyographic Amplitude vs. Concentric and Eccentric squat force relationships for monoarticular and biarticular thigh muscles.](http://www.ncbi.nlm.nih.gov/pubmed/23897014)
+
+[Maddigan,. Lower Limb and Trunk Muscle Activation With Back Squats and Weighted Sled Apparatus.](http://www.ncbi.nlm.nih.gov/pubmed/25226330)
+
+[Manabe. Effect of slow movement and stretch-shortening cycle on lower extremity muscle activity and joint moments during squat.](http://www.ncbi.nlm.nih.gov/pubmed/17369791)
+
+[Marchetti. Can the Technique of Knee Wrap Placement Affect the Maximal Isometric Force during Back Squat Exercise?](http://article.sapub.org/10.5923.j.sports.20150501.03.html)
+
+[McAllister. Muscle activation during various hamstring exercises.](http://www.elementssystem.com/pdfs/McAllister.pdf)
+
+[McBride. Comparison of kinetic variables and muscle activity during a squat vs. a box squat.](http://www.ncbi.nlm.nih.gov/pubmed/21132859)
+
+[McBride. Effect of loading on peak power of the bar, body, and system during power cleans, squats, and jump squats.](http://www.ncbi.nlm.nih.gov/pubmed/21777152)
+
+[McCurdy. The effects of short-term unilateral and bilateral lower-body resistance training on measures of strength and power.](http://www.ncbi.nlm.nih.gov/pubmed/15705051)
+
+[McCurdy. Comparison of lower extremity EMG between the 2-leg squat and modified single-leg squat in female athletes.](http://www.ncbi.nlm.nih.gov/pubmed/20231745)
+
+[McKean. Does Segment Length Influence the Hip, Knee and Ankle Coordination During the Squat Movement.](https://www.researchgate.net/publication/234808482_Does_segment_length_influence_the_hip_knee_and_ankle_coordination_during_the_squat_movement)
+
+[McKean. Quantifying the Movement and the Influence of Load in the Back Squat Exercise.](http://www.ncbi.nlm.nih.gov/pubmed/20508473)
+
+[McLaughlin. Kinetics of the Parallel Squat.](http://www.tandfonline.com/doi/abs/10.1080/10671315.1978.10615522)
+
+[McLaughlin. A kinematic model of performance in the parallel squat.](http://www.ncbi.nlm.nih.gov/pubmed/895430)
+
+[Miletello. A biomechanical analysis of the squat between competitive collegiate, competitive high school, and novice powerlifters.](http://www.ncbi.nlm.nih.gov/pubmed/19620900)
+
+[Murray. Effects of Foot Position during Squatting on the Quadriceps Femoris: An Electromyographic Study.](http://digitalcommons.wku.edu/cgi/viewcontent.cgi?article=1446&context=ijes)
+
+[Myer. The back squat: A proposed assessment of functional deficits and technical factors that limit performance.](https://www.nsca.com/uploadedFiles/NSCA/Resources/PDF/Education/Articles/NSCA_Classics_PDFs/the_back_squat_a_proposed_assessment.pdf)
+
+[Nuzzo. Trunk muscle activity during stability ball and free weight exercises.](http://www.ncbi.nlm.nih.gov/pubmed/18296961)
+
+[Olinghouse. Neuromuscular and morphological adaptations to short-term squat and deadlift training in women.](https://repositories.tdl.org/ttu-ir/handle/2346/62371)
+
+[Paoli. The effect of stance width on the electromyographical activity of eight superficial thigh muscles during back squat with different bar loads.](http://www.ncbi.nlm.nih.gov/pubmed/19130646)
+
+[O’Shea. The Parallel Squat.](http://journals.lww.com/nsca-scj/Citation/1985/02000/Sports_Performance_Series__The_parallel_squat_.1.aspx)
+
+[Pereira. Influence of hip external rotation on hip adductor and rectus femoris myoelectric activity during a dynamic parallel squat.](http://www.ncbi.nlm.nih.gov/pubmed/20651607)
+
+[Pick. The Relationship Between Training Status and Intensity on Muscle Activation and Relative Submaximal Lifting Capacity During the Back Squat.](http://journals.lww.com/nsca-jscr/Abstract/2000/05000/The_Relationship_Between_Training_Status_and.10.aspx)
+
+[Robertson. Lower extremity muscle functions during full squats.](http://www.ncbi.nlm.nih.gov/pubmed/19075302)
+
+[Russell. A preliminary comparison of front and back squat exercises.](http://www.ncbi.nlm.nih.gov/pubmed/2489844)
+
+[Sato. Kinematic changes using weightlifting shoes on barbell back squat.](http://www.ncbi.nlm.nih.gov/pubmed/22201687)
+
+[Sato. Comparison of back squat kinematics between barefoot and shoe conditions.](http://connection.ebscohost.com/c/opinions/90063753/comparison-back-squat-kinematics-between-barefoot-shoe-conditions)
+
+[Schoenfeld. Squatting Kinematics and Kinetics and Their Application to Exercise Performance.](http://www.ncbi.nlm.nih.gov/pubmed/20182386)
+
+[Signorile. An Electromyographical Comparison of the Squat and Knee Extension Exercises.](https://www.researchgate.net/publication/232217996_An_Electromyographical_Comparison_of_the_Squat_and_Knee_Extension_Exercises)
+
+[Sinclair. The influence of different footwear on 3-D kinematics and muscle activation during the barbell back squat in males.](http://www.ncbi.nlm.nih.gov/pubmed/25331484)
+
+[Skinner. Kinetic and Kinematric Analysis of the Squat with and without Supportive Equipment.](https://libres.uncg.edu/ir/asu/f/Skinner,%20Jared_2011_Thesis.pdf)
+
+[McCaw. Stance width and bar load effects on leg muscle activity during the parallel squat.](http://www.ncbi.nlm.nih.gov/pubmed/10188748)
+
+[Stone. Comparison of the Effects of Three Different Weight-Training Programs on the One Repetition Maximum Squat.](http://journals.lww.com/nsca-jscr/Abstract/2000/08000/Comparison_of_the_Effects_of_Three_Different.15.aspx)
+
+[Stuart. Comparison of intersegmental tibiofemoral joint forces and muscle activity during various closed kinetic chain exercises.](http://www.ncbi.nlm.nih.gov/pubmed/8947402)
+
+[Swinton. A biomechanical comparison of the traditional squat, powerlifting squat, and box squat.](http://www.ncbi.nlm.nih.gov/pubmed/22505136)
+
+[Thomas. Maximal Power At Different Percentages of One Repetition Maximum: Influence of Resistance and Gender.](http://www.ncbi.nlm.nih.gov/pubmed/17530990)
+
+[van den Tillaar. The Existence of a Sticking Region in Free Weight Squats.](http://www.ncbi.nlm.nih.gov/pubmed/25414740)
+
+[Wilk. A comparison of tibiofemoral joint forces and electromyographic activity during open and closed kinetic chain exercises.](http://www.ncbi.nlm.nih.gov/pubmed/8827313)
+
+[Wisløff. Strong correlation of maximal squat strength with sprint performance and vertical jump height in elite soccer players.](http://bjsm.bmj.com/content/38/3/285.abstract)
+
+[Wretenberg. High- and low-bar squatting techniques during weight-training.](http://www.ncbi.nlm.nih.gov/pubmed/8775157)
+
+[Wright. Electromyographic Activity of the Hamstrings During Performance of the Leg Curl, Stiff-Leg Deadlift, and Back Squat Movements.](http://journals.lww.com/nsca-jscr/abstract/1999/05000/electromyographic_activity_of_the_hamstrings.12.aspx)
+
+[Yavuz. Kinematic and EMG activities during front and back squat variations in maximum loads.](http://www.ncbi.nlm.nih.gov/pubmed/25630691)
+
+[Zink. Peak power, ground reaction forces, and velocity during the squat exercise performed at different loads.](http://journals.lww.com/nsca-jscr/Abstract/2006/08000/PEAK_POWER,GROUND_REACTION_FORCES,_AND_VELOCITY.30.aspx)
+
+[Zink. The effects of a weight belt on trunk and leg muscle activity and joint kinematics during the squat exercise.](http://www.ncbi.nlm.nih.gov/pubmed/11710410)
