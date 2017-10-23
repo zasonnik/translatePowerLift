@@ -99,7 +99,7 @@ Graphics by [Lyndsey Nuckols]()
 * [9.0.1 Нужно приседать с высоким положением штанги, с низким положением штанги, или же со штангой на груди?](#Нужно-приседать-с-высоким-положением-штанги-с-низким-положением-штанги-или-же-со-штангой-на-груди)
 * [10 Снаряжение](#Снаряжение)
 * [11 Памятки](#Памятки)
-* [12 [Поделитесь этим на Фейсбуке](http://www.facebook.com/sharer.php?u=https://www.strongerbyscience.com/how-to-squat/) и [присоединяйтесь к беседе](https://www.facebook.com/strengtheory/posts/489621327900060?__mref=message)](#)
+* [12 [Поделитесь этим руководством на Фейсбуке](http://www.facebook.com/sharer.php?u=https://www.strongerbyscience.com/how-to-squat/) и [присоединяйтесь к обсуждению](https://www.facebook.com/strengtheory/posts/489621327900060?__mref=message)](#Поделитесь-этим-руководством-на-Фейсбуке-и-присоединяйтесь-к-обсуждению)
 * [13 Источники](#Источники)
 
 ## Очень Общая Физика
@@ -739,7 +739,7 @@ Squat strength and power relative to body weight predict sprint performance, and
 4. Перемещаете ли вы вес на одну половину телу, или вы слишком подворачиваетесь? Тут вам снова придётся <судить самому>, поскольку все в определённой мере асимметричны. Do you shift your weight to one side, or do you rotate excessively?  Again, this is a bit of a judgement call, since everyone is asymmetrical to some degree.
 5. Носите ли вы правильную обувь? Сгодится любая обувь с достачно цепкой и жёсткой подошвой; поднята ли у неё пятка или нет — дело вкуса, но мягкой подошвы надо избегать.  Are you wearing the right shoes?  Any shoe with good traction and a solid sole is fine; with or without a raised heel is just a matter of preference, but cushion-y soles should be avoided.
 
-## [Поделитесь этим на Фейсбуке](http://www.facebook.com/sharer.php?u=https://www.strongerbyscience.com/how-to-squat/) и [присоединяйтесь к беседе](https://www.facebook.com/strengtheory/posts/489621327900060?__mref=message)Share this on Facebook and join in the conversation
+## [Поделитесь этим руководством на Фейсбуке](http://www.facebook.com/sharer.php?u=https://www.strongerbyscience.com/how-to-squat/) и [присоединяйтесь к обсуждению](https://www.facebook.com/strengtheory/posts/489621327900060?__mref=message)
 
 ## Источники
 Aspe. Electromyographic and Kinetic Comparison of the Back Squat and Overhead Squat.
