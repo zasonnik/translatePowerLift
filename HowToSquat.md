@@ -1,4 +1,4 @@
-# **_How to Squat: The Definitive Guide_**
+# **_Приседания: подробное руководство_**
 ![заглавная картинка](https://i1.wp.com/www.strongerbyscience.com/wp-content/uploads/2016/03/DSC09145.jpg)
 by [Greg Nuckols](https://www.strongerbyscience.com)   
 
