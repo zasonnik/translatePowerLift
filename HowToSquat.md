@@ -262,7 +262,7 @@ Graphics by [Lyndsey Nuckols]()
 Эта иллюстрация из исследования ван Инген Шенау (van Ingen Schenau ) показывает, что этот принцип работает и в прыжках — квадрицепсы помогают сгибать подошвы посредством икроножной мышцы. 
 
 А теперь время разобрать сами приседания. После того, как мы рассмотрим основное движение, мы вернёмся к кое-чему из этого материала чтобы помочь вам установить и устранить слабости, а также для того, чтобы ответить на некоторые основные вопросы об упражнении и о том, как оптимизировать его тренировку для себя.  
-Back to sections outline
+[Вернуться к оглавлению](#Оглавление)
 ## Приседания: подготовка
 У приседания есть три ключевых компонента: подготовка, спуск (эксцентрика) и подъём (концентрика).
 
@@ -384,7 +384,7 @@ _Здоровье колен_ Knee Health
 5. Встаньте в стойку <предпочитаемой вами> ширины, и разверните ступни так, как вам нужно (основываясь на ширине стойки, отведении бёдер, и направлению колен). Get in your preferred stance width, and point your toes out to the appropriate degree (based on stance width, hip abduction, and knee tracking).
 6. Сделайте глубокий, диафрагмальный вдох (ваши плечи не должны подниматься, должен расширяться живот). Если вы приседаете без ремня, напрягите мышечный корсет так, как будто вас сейчас ударят в живот, а если с ремнём- то уприте в него свой живот и косые мышцы. Take a deep, diaphragmatic breath (stomach expanding, not shoulders rising).  Brace like you’re going to take a punch to the stomach if you’re squatting without a belt, and push your stomach and obliques against your belt if you’re squatting belted.
 7. Создайте напряжение по всему телу. Начните от пола: <найдите> и поддерживайте три точки соприкосновения ступней, ввинтите их в пол или разорвите пол ногами, и попытайтесь согнуть штангу между плечами, если вы приседаете с ней на спине. Create total body tension from the ground up by finding and maintaining three points of contact with your feet, screwing your feet into the ground or trying to spread the floor, and trying to bend the bar across your back if you’re back squatting.
-Вернуться к оглавлениюBack to sections outline
+[Вернуться к оглавлению](#Оглавление)
 ## Спуск  
 Как только вы закончили с подготовкой - время приседать. Once your setup is squared away, it’s time to squat!
 ### Ориентировки для спуска  
@@ -421,7 +421,7 @@ _Здоровье колен_ Knee Health
 3. Намеренно выгибайте поясницу <сильнее>. От этого у таза будет передний наклон, и вы будете начинать подъём с большим сгибом бёдер. Intentionally arch your low back harder.  This will put your pelvis in anterior tilt, so you’ll already be starting the lift in a bit more hip flexion.
 4. Если вы обычно приседаете с высоким положением штанги, попробуйте низкое. Так как гриф ляжет на спину ниже, вам придётся наклониться дальше вперёд, чтобы удерживать центр масс над серединой ступни. Как и другие три совета, это поможет вам достичь полного сгиба бёдер немного выше. If you generally high bar squat, give the low bar squat a try.  Since the bar is lower on your back, you’ll naturally have to lean farther forward to keep your center of mass over mid-foot.  Like the other three tips, this will let you reach full hip flexion at a slightly higher depth.
 Если вы попробуете эти хитрости, и для вас они не сработают, то ничего страшного! Преимущество, которое вы получите от более высокой точки конца амплитуды, не слишком большое — посмотрите на тяжелоатлетов, которые _супер_ глубоко приседают с огромными весами. Но всё же проверить их в деле стоит.  If you try these tips and they don’t click for you, that’s perfectly fine!  The advantage you get from being able to bottom out while still cutting your squat a little higher is a small one in the first place – just look at weightlifters who still squat a ton while going super deep.  However, these are all tips worth experimenting with.  
-Back to sections outline
+[Вернуться к оглавлению](#Оглавление)
 ## Подъём  
 Итак, вы присели с кучей кило на спине. Время для самого сложного: встать с ними прямо!Now you’ve squatted down with a bunch of weight on your back.  Time for the hard part:  actually standing back up with it!
 Подьём вращается вокруг самой важной точки упражнения: мёртвой точки. The ascent revolves around the single most crucial point in the lift:  the sticking point.
@@ -447,7 +447,7 @@ Back to sections outline
 Хотя эта <техника> неброская, следующее видео хорошо её показывает: Though it’s subtle, this video shows this technique well:
 https://youtu.be/cUHpuMcje84
 Последнеее замечание: _ВЗРЫВАЙТЕСЬ_. Делайте каждый подъём как можно быстрее, сохраняя при этом чистоту <техники/исполнения>. Приседания — трудное упражнение, и многие атлеты просто прикладывают как можно меньше усилий в каждом повторении. Но вы гораздо быстрее разовьете силу [https://www.strongerbyscience.com/speed-kills-2x-the-intended-bar-speed-yields-2x-the-bench-press-gains/], если будете делать подъёмы с максимум <взрывной силы>, от первого до последнего повторения. One final point:  EXPLODE.  Lift every rep as fast as you can while still maintaining proper technique.  Squats are hard, so many lifters simply put as little effort into each lift as possible.  However, you’ll gain strength much faster if you make a point of lifting each rep as explosively as you can, from the first rep of each set to the last.
-Вернуться к оглавлению Back to sections outline
+[Вернуться к оглавлению](#Оглавление)
 ## Диагностика слабостей
 Теперь, когда вы понимаете основные требования приседаний, выявить ваши слабости для их дальнейшего устранения будет несложно. Now that you understand the basic demands of the squat, it shouldn’t be too hard to figure out your weaknesses to improve your squat.
 ### 1) Квадрицепсы
@@ -477,7 +477,7 @@ https://youtu.be/cUHpuMcje84
 Лучшее упражнение для того, чтобы развить силу разгибателей и улучшить результаты приседаний — <это приседания!>. The best exercise to improve your hip extensors’ strength for squatting:  more squats!
 Однако, если вы хотите добавить какие-нибудь другие упражнения в программу, то хорошими вариантами будут наклоны вперёд со штангой, мёртвая тяга с
  прямыми ногами, подъёмы таза, ГХР (подъём корпуса стоя на коленях в упоре), гиперэкстензии и приседания на обмотанных коленях [https://www.youtube.com/watch?v=1yY85ecYBzM]. If you want to add some other exercises into the mix, however, good mornings, stiff leg deadlifts, hip thrusts, glute ham raises, hyperextensions, and banded kneeling squats are all great options.
-Back to sections outline
+[Вернуться к оглавлению](#Оглавление)
 ## Часто задаваемые вопросы  
 ### Безопасны ли приседания?  
 В любом упражнении потенциально можно получить травму. Тем не менее, по шкале от 1 до «привет всем, кого люблю», _правильно исполненные_ приседания — <единица> 1.There is the potential for injury with every exercise.  However, on a risk scale from 1 to “snap city,” properly performed squats are a 1.
@@ -508,10 +508,10 @@ https://youtu.be/Gzj9AOn4KDY
  as possible for better carryover to the clean and snatch.
 Помимо этих практических причин есть ещё и анатомические. Существует множество вариаций в анатомии таза, способных заставить атлетов приседать по-разному, включая разную глубину суставных впадин, разные углы <соединения шейки бедренной кости с телом>, разные углы <вращения/горизонтального расположения> шейки бедренной кости <вокруг/на> её теле, и разные расположения суставной впадины в тазу. Добавьте к этому различающуюся длину бедренной кости, разные степени подвижности голеностопов, разные точки крепления мускулов бедра и разный уровень силы основных мышц упражнения, и вы получите множество факторов, влияющих на выбор оптимального приседания. On top of these practical reasons are anatomical reasons.  There are a multitude of differences in  hip anatomy that can make people squat differently, including different hip socket depths, different angles of inclination of the neck of the femur, different degrees of rotation of the femoral neck about the shaft of the femur, and different positions for the hip socket on the pelvis.  Throw in different femur lengths, varying degrees of ankle mobility, varying attachment points for the muscles around the hip, and different levels of strength in the prime movers, and you have a lot of factors that can influence how someone will squat best.
 Больше об этом можно прочитать здесь[http://themovementfix.com/the-best-kept-secret-why-people-have-to-squat-differently/], здесь[http://www.jtsstrength.com/articles/2014/09/28/myth-perfect-form/], здесь[http://deansomerset.com/beyond-butt-wink-hip-shape-injuries-and-individual-ability-part-1/], здесь[http://deansomerset.com/beyond-butt-wink-part-2/] и здесь[http://deansomerset.com/beyond-the-butt-wink-part-3/]. More reading here, here, here, here, and here.
-### Могут ли все приседать попой к полу <в таз>? Can everyone squat ass to grass?
+### Могут ли все приседать попой к полу?
 Нет. Все эти разнообразные анатомические факторы определяют то, насколько глубоко может присесть человек. Многие могут присесть попой к полу <в таз>, но не меньше людей не может этого несмотря на любые тренировки. No.  All of those different anatomical factors determine how deeply someone can squat.  Many people can squat ass to grass, but many people can’t, no matter how much they work at it.
 Однако если вы думаете, что глубину вашего приседа ограничивают проблемы с подвижностью, эта статья[http://www.jtsstrength.com/articles/2014/09/04/best-damn-squat-mobility-article-period/] — _отличное_ руководство. However, if you do think mobility restrictions are limiting your squat depth, this article is a great resource.
-### Должна ли траектория штанги быть вертикальной? Should I have a vertical bar path?
+### Должна ли траектория штанги быть вертикальной?
 Многие думают, что если траектория штанги не идеально вертикальна, то приседание неэффективно. Они считают это незыблемым законом правильных приседаний. A lot of people have the idea that if you don’t have a perfectly vertical bar path, your squat is inefficient.  They treat it as an immutable law of good squatting.
 Однако, это просто <не так><не соотвествует действительности>. However, this simply isn’t true.  With very heavy loads (2x your bodyweight or more) your bar path should be very close to vertical, but you shouldn’t expect it to be with lighter loads.
 Why? Почему? 
@@ -611,7 +611,7 @@ This article explores this topic in more depth (with sources), although this sh
 Squat strength and power relative to body weight predict sprint performance, and increasing squat strength decreases sprint times.  This is also true for jump height in most studies. (one, two, three, four, five, six, seven)
 Насколько я помню, более быстрый бег и высокие прыжки улучшают результаты в большинстве видов спорта. When last I checked, running faster and jumping higher make you better at most sports.
 Практически гарантированно есть <точка>, после которой отдача убывает, но в большинстве видов спорта, где требуется много бегать и прыгать, хорошей целью для атлетов будет полное приседание с двойным собственным весом. Для шафлборда, однако, по всей вероятности, пользы будет меньше.There’s almost certainly a point of diminishing returns, but aiming for a ~2x bodyweight full squat would be a good goal for most athletes who play sports that require a lot of running and jumping.  They may be less beneficial for shuffleboard, however.
-Вернуться к оглавлению Back to sections outline
+[Вернуться к оглавлению](#Оглавление)
 ## Положение штанги
 Теперь, когда основная информация о приседаниях уже рассмотрена, время перейти к большому вопросу, который так заботит атлетов: положение штанги. 
 ### Нужно приседать с высоким положением штанги, с низким положением штанги, или же со штангой на груди?
@@ -711,7 +711,7 @@ Squat strength and power relative to body weight predict sprint performance, and
 4. Перемещаете ли вы вес на одну половину телу, или вы слишком подворачиваетесь? Тут вам снова придётся <судить самому>, поскольку все в определённой мере асимметричны. Do you shift your weight to one side, or do you rotate excessively?  Again, this is a bit of a judgement call, since everyone is asymmetrical to some degree.
 5. Носите ли вы правильную обувь? Сгодится любая обувь с достачно цепкой и жёсткой подошвой; поднята ли у неё пятка или нет — дело вкуса, но мягкой подошвы надо избегать.  Are you wearing the right shoes?  Any shoe with good traction and a solid sole is fine; with or without a raised heel is just a matter of preference, but cushion-y soles should be avoided.
 
-[Поделитесь этим на Фейсбуке](http://www.facebook.com/sharer.php?u=https://www.strongerbyscience.com/how-to-squat/) и [присоединяйтесь к беседе](https://www.facebook.com/strengtheory/posts/489621327900060?__mref=message)Share this on Facebook and join in the conversation
+## [Поделитесь этим на Фейсбуке](http://www.facebook.com/sharer.php?u=https://www.strongerbyscience.com/how-to-squat/) и [присоединяйтесь к беседе](https://www.facebook.com/strengtheory/posts/489621327900060?__mref=message)Share this on Facebook and join in the conversation
 
 ## Источники
 Aspe. Electromyographic and Kinetic Comparison of the Back Squat and Overhead Squat.
