@@ -1004,7 +1004,7 @@ This article explores this topic in more depth (with sources), although this sho
 
 Если вы думаете, что дисбаланс между сторонами тела вызывает проблемы, если вы считаете, что лучше перестраховаться, или хотите сбалансировать приседание для того, чтобы оно лучше выглядело (я вас не осуждаю), перейдите по ссылке вверху, поскольку там этот вопрос рассматривается детально и приводятся советы по его решению. If you think side-to-side imbalances are causing you issues, if you want to take the “better safe than sorry” approach, or if you just want to balance out your squat so it looks better (I’m not judging), check out the link above which looks at this issue in more depth and provides training advice about how to address it.
 
-###Нужно ли приседать ниже параллели? 
+### Нужно ли приседать ниже параллели? 
 
 Никто не заставляет вас приседать ниже параллели под дулом пистолета. Но если вы хотите участвовать в соревнованиях по пауэрлифтингу, то вам лучше понять, как это делается. К тому же, если вы _можете_ приседать ниже параллели, то таким образом вы получите лучший общий тренировочный эффект. No one’s pointing a gun at your head and forcing you to squat below parallel.  If you want to compete in powerlifting, you’d better figure out how to, though.  Additionally, if you can squat below parallel, you’ll probably get a better all-around training effect from squatting deep.
 
